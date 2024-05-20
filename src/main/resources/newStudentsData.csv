@@ -1,0 +1,22 @@
+StudentId, Email, FirstName, LastName, GradeLevel, GuardianEmail, GuardianEmail2, IsArchived, IsDeleted 
+
+1,evelynt+student+academy@chalk.com,Evelyn,Torgenson,1,evelynt+guardian+academy@chalk.com,null,null,null 
+2,josephs+student+academy@chalk.com,Joseph,Sturdevant,1,josephs+guardian+academy@chalk.com,null,null,null 
+3,scottyb+student+academy@chalk.com,Scotty,Busch,1,scottyb+guardian+academy@chalk.com,nickyb+guardian+academy@chalk.com,null,null 
+4,nickyb+student+academy@chalk.com,Nicky,Busch,1,nickyb+guardian+academy@chalk.com,scottyb+guardian+academy@chalk.com,null,null 
+5,hilmah+student+academy@chalk.com,Hilma,Habbard,1,hilmah+guardian+academy@chalk.com,null,null,null 
+6,avisf+student+academy@chalk.com,Avis,Faulcon,2,avisf+guardian+academy@chalk.com,null,null,null 
+7,marybethb+student+academy@chalk.com,Marybeth,Bolduc,2,null,null,null,null 
+8,scarleta+student+academy@chalk.com,Scarlet,Alt,2,scarleta+guardian+academy@chalk.com,null,null,null 
+9,rhebal+student+academy@chalk.com,Rheba,Loftin,2,null,null,null,null 
+10,marvela+student+academy@chalk.com,Marvel,Alexander,2,null,null,null,null 
+11,terrir+student+academy@chalk.com,Terri,Robeson,2,terrir+guardian+academy@chalk.com,null,null,null 
+12,tituss+student+academy@chalk.com,Titus,Seese,3,tituss+guardian+academy@chalk.com,null,null,null 
+13,dionneh+student+academy@chalk.com,Dionne,Heron,3,dionneh+guardian+academy@chalk.com,dionneh2+guardian+academy@chalk.com,null,null 
+14,tannaw+student+academy@chalk.com,Tanna,Weisberg,3,tannaw+guardian+academy@chalk.com,null,null,null 
+15,ethelk+student+academy@chalk.com,Ethel,Kleckner,3,null,null,null,null 
+16,lorenzaw+student+academy@chalk.com,Lorenza,Waggener,3,lorenzaw+guardian+academy@chalk.com,null,null,null 
+17,nannies+student+academy@chalk.com,Nannie,Stupka,4,nannies+guardian+academy@chalk.com,null,null,null 
+18,emiler+student+academy@chalk.com,Emile,Rincon,4,null,null,null,null 
+19,zeneidah+student+academy@chalk.com,Zeneida,Hotard,4,zeneidah+guardian+academy@chalk.com,null,null,null 
+20,lenoras+student+academy@chalk.com,Lenora,Speights,4,lenoras+guardian+academy@chalk.com,null,null,null 
